@@ -17,7 +17,7 @@ Event Dates: from Jul 20, 2022 12:00 to Aug 05, 2022 12:00
 
 
 <details id=1>
-<summary><h2>  Fundamentals of Data Science </h2></summary>
+<summary><h2>  1. Fundamentals of Data Science </h2></summary>
 
 1. Introduction to R Programming
 1. Introduction to Python Programming
@@ -30,7 +30,7 @@ Event Dates: from Jul 20, 2022 12:00 to Aug 05, 2022 12:00
 
 
 <details id=2>
-<summary><h2>  Applications of Advanced Data Science </h2></summary>
+<summary><h2>  2. Applications of Advanced Data Science </h2></summary>
 
 1. Deep Learning for Multi-Model Systems
 1. Transformers for Natural Language Processing
