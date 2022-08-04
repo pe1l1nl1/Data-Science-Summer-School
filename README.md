@@ -1,4 +1,4 @@
-# Data-Science-Summer-School
+# Data-Science-Summer-School-2022-July-August
 
 
 Hertie School of Governance Summer School - Data Science, 2022, Hertie School, Germany
